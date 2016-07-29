@@ -1,1 +1,2 @@
 * https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/ `BEM principle`, Frontend Development Methodology learned, must use
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ `CSS Flex box` related article
